@@ -1,0 +1,15 @@
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\bin\Debug\net5.0\Persistance.Dapper.deps.json
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\bin\Debug\net5.0\Persistance.Dapper.dll
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\bin\Debug\net5.0\ref\Persistance.Dapper.dll
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\bin\Debug\net5.0\Persistance.Dapper.pdb
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\bin\Debug\net5.0\Domain.dll
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\bin\Debug\net5.0\Domain.pdb
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\obj\Debug\net5.0\Persistance.Dapper.csproj.AssemblyReference.cache
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\obj\Debug\net5.0\Persistance.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\obj\Debug\net5.0\Persistance.Dapper.AssemblyInfoInputs.cache
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\obj\Debug\net5.0\Persistance.Dapper.AssemblyInfo.cs
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\obj\Debug\net5.0\Persistance.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\obj\Debug\net5.0\Persistance.Dapper.csproj.CopyComplete
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\obj\Debug\net5.0\Persistance.Dapper.dll
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\obj\Debug\net5.0\ref\Persistance.Dapper.dll
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Persistance.Dapper\obj\Debug\net5.0\Persistance.Dapper.pdb

@@ -1,0 +1,11 @@
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\NAVID\Documents\Development Practice\React_NextJs\eshop_backendCsharp\Domain\obj\Debug\net5.0\Domain.pdb
